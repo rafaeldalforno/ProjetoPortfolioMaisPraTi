@@ -47,3 +47,6 @@ Assim farei uma breve descrição sobre o desenvolvimento de cada seção do có
 
 
 Com esta breve descrição de cada seção desenvolvida, finalizo a apresentação deste projeto. Pontuo que em todos os projetos desenvolvidos durante o curso foram me ensinando e consolidando conhecimentos sobre como desenvolver uma página web. Neste projeto final, além de ter como resultado uma página de portfólio, apresentando minha evolução nos estudos. Valorizo o aprendizado de estruturas na construção deste projeto, como: o desenvolvimento do menu de navegação no topo da página, também o uso do efeito de GlassMorphismo que utilizei na seção inicial, também gostei de aprender como desenvolver os cards das seções de Habilidades e de Projetos, e também achei super interessante a possibilidade de poder utilizar um mapa destacando alguma localidade dentro da nossa página desenvolvida. São funcionalidades que aprendi durante as aulas, e que praticarei e tenho certeza que me dará mais recursos, no desenvolvimento de outros projetos. Um agradecimento ao professor Henrique pelos ensinamentos nas aulas ministradas por ele, aos colegas e à +prati e Codifica que nos deram a oportunidade neste curso disponibilidado. 
+
+link do deploy:
+https://rafaeldalforno.github.io/ProjetoPortfolioMaisPraTi/
